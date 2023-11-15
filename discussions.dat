@@ -1,0 +1,88 @@
+Josephine Darakjy
+Sequential search vs binary search
+10/08/2023 21:08:00
+Sequential search works by comparing each element in the array to the target value, starting at the beginning of the array.\
+Binary search works by dividing the array in half and then searching the half that is more likely to contain the target value.
+Simona S. Morasca
+I think efficiency algorithms make sorting algorithms more useful than anthers.
+10/11/2023 09:05:00
+In computer science, a sorting algorithm is an algorithm that puts elements of a list into an order.\
+The most frequently used orders are numerical order and lexicographical order, and either ascending or descending.
+Mitsue Tollner
+Question ???
+10/11/2023 09:08:00
+What are the top 3 most important sorting algorithms in our topics? 
+Leota M. Dilliard
+Regarding selection sort
+10/11/2023 23:20:00
+Selection sort helpful because it helps us in searching for the smallest element in the unsorted sublist.
+Sage Wieser
+Is selection sort better han quick sort?
+10/11/2023 16:53:00
+Is there a particular instance where a simpler sorting algorithm is better than a sorting algorithm like quick sort?
+Kris K. Marrier
+Efficiency
+10/11/2023 18:31:00
+Some sorting algorithms have better time and/or memory efficiency than others.\
+It really depends on the applications and what the program is trying to accomplish.
+Abel M. Maclead
+Merge sort
+10/11/2023 19:01:00
+Merge sort helps to merge two arrays together.
+James D. Pham
+Also merge sort
+10/11/2023 21:05:00
+Merge sort allows to programmer to sort the data structure in half, from this it then merges the sorted sub arrays into one.
+Yuki Whobrey
+Bubble Sort
+10/11/2023 21:06:00
+Slowest sorting algorithm that works by comparing each pair of elements in the given order. 
+Bette Nicka
+Performance of algorithms
+10/11/2023 21:40:00
+Performance of an algorithm means predicting the resources which are required to an algorithm to perform its task.\
+That means when we have multiple algorithms to solve a problem, we need to select a suitable algorithm to solve that problem.
+Ernie D. Stenseth
+Selection sort
+10/11/2023 22:31:00
+This is important to know because it works well with smaller lists and has good memory usage
+Alishia Sergi
+Bubble Sort
+10/11/2023 23:14:00
+A sort that forwards smaller values compared to the data next to it.
+Solange C. Shinko
+Linear search
+10/11/2023 23:15:00
+Searching is a common task and linear search is one way to search, linear search means to look for an element in an array or list and inspeacting it. 
+Rozella Ostrosky
+Selection Sort
+10/11/2023 23:22:00
+Finds the smallest value in a list and brings it to the front
+Valentine L. Gillian
+Quick sort
+10/11/2023 23:30:00
+Quick sort is useful for sorting array. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot
+Kati Rulapaugh
+Insertion sort
+10/11/2023 23:32:00
+It can help with already sorted lists
+Dyan Oldroyd
+Linear Searching
+10/11/2023 23:51:00
+Will check every element in a list but is very slow
+Roxane Campain
+Selection sort
+10/11/2023 23:52:00
+Selection sort useful for locating the smallest element in the unsorted sublist.
+Lavera Perin
+Binary search
+10/12/2023 23:20:00
+Binary search divides the search space in half each time. asks higher or lower question
+Erick B. Ferencz
+Big O notation
+10/12/2023 20:45:00
+Big O notation gives metric to identify efficiency
+Hopkins Hennepin
+Merge sort
+10/13/2023 15:35:00
+Merge sort divides arrays and merges / combines them
